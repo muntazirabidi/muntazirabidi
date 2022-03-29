@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything!
 - 📫 How to reach me: 
-      * Email: muntazir.abidi@unige.ch
-      * Website: [https://muntazirabidi.com/](https://muntazirabidi.com/)
+     ..* Email: muntazir.abidi@unige.ch
+     ..* Website: [https://muntazirabidi.com/](https://muntazirabidi.com/)
