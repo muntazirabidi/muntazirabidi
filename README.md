@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning statistics, machine learning, and quantitative finance.
 - 👯 I’m looking to collaborate on cosmology, data science, quantitaive finance projects. 
 - 🤔 I’m looking for help with ...
+- 📖 I'm reading [Range: Why Generalists Triumph in a Specialized World by David Epstein](https://www.goodreads.com/book/show/41795733-range)
 - 💬 Ask me about anything!
 - 📫 How to reach me: 
      - Email: muntazir.abidi@unige.ch
