@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 📖 Books I'm reading:
      -  [Range: Why Generalists Triumph in a Specialized World by David Epstein](https://www.goodreads.com/book/show/41795733-range)
+     -  [The Psychology of Money by Morgan Housel](https://www.goodreads.com/book/show/41881472-the-psychology-of-money)
+     -  Option Volatility and Pricing by Sheldon Natenberg
 - 💬 Ask me about anything!
 - 📫 How to reach me: 
      - Email: muntazir.abidi@unige.ch
