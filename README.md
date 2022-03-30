@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Muntazir Abidi
+### Hi there 👋 I'm Dr. Muntazir Abidi
 
 
 I am currently working as a Postdoctotal Research Associate in the [Cosmology group at the University of Geneva](https://cosmology.unige.ch/). I completed my PhD in Cosmology from the [Stephan Hawking Centre for Theoretical Cosmology](https://www.ctc.cam.ac.uk/) at the University of Cambridge in 2020. During my PhD I worked on the large scale structure of the Universe and how we can extract interesting physics from current and upcoming galaxy surveys. I did research on the perturbative effective field theory approaches to matter and galaxy clustering in the universe and validated the methods using with supercomputer simulations of the cosmic density fields. My PhD thesis was on [Higher Order Couplings in the Clustering of Biased Tracers of Large-Scale Structure](https://www.repository.cam.ac.uk/handle/1810/314703?show=full). I did Masters in Applied Mathematics & Theoretical Physics (also known as Part III of the Mathematical Tripos) from the [University of Cambridge](https://www.damtp.cam.ac.uk/) in 2016.
