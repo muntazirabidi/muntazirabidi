@@ -6,7 +6,7 @@ I am currently working as a Postdoctotal Research Associate in the [Cosmology gr
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on large scale structure cosmology ([github page](https://github.com/muntazirabidi/GIMCO_EG)) and the applications of machine learning in cosmology ([github page](https://github.com/muntazirabidi/cosmoSWAG)). 
-- 🌱 I’m currently learning statistics, machine learning, and quantitative finance.
+- 🌱 I’m currently learning statistics and machine learning.
 - 👯 I’m looking to collaborate on cosmology, data science, quantitaive finance projects. 
 - 🤔 I’m looking for help with ...
 - 📚 Books I'm reading:
