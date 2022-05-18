@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on large scale structure cosmology ([github page](https://github.com/muntazirabidi/GIMCO_EG)) and the applications of machine learning in cosmology ([github page](https://github.com/muntazirabidi/cosmoSWAG)). 
 - 🌱 I’m currently learning statistics and machine learning.
-- 👯 I’m looking to collaborate on cosmology, data science, quantitaive finance projects. 
+- 👯 I’m looking to collaborate on interesting projects. 
 - 🤔 I’m looking for help with ...
 - 📚 Books I'm reading:
      -  [Range: Why Generalists Triumph in a Specialized World by David Epstein](https://www.goodreads.com/book/show/41795733-range)
