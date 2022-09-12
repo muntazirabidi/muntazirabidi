@@ -13,7 +13,6 @@ Here are some ideas to get you started:
      -  [Range: Why Generalists Triumph in a Specialized World by David Epstein](https://www.goodreads.com/book/show/41795733-range)
      -  [The Psychology of Money by Morgan Housel](https://www.goodreads.com/book/show/41881472-the-psychology-of-money)
      -  Option Volatility and Pricing by Sheldon Natenberg
-- 📊  I taught a course on [AstroStatsitics](https://github.com/muntazirabidi/astrostatistics-Habib) at [Habib University](https://habib.edu.pk/), Karachi, Pakistan.
 - 💬 Ask me about anything!
 - 📫 How to reach me: 
      - Email: muntazir.abidi@unige.ch
