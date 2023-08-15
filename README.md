@@ -1,21 +1,25 @@
-### Hi there 👋 I'm Dr. Muntazir Abidi
+# Dr. Muntazir Abidi :wave:
 
+## 📊 **AI & Data Science Consultant in Finance | Former Cosmologist**
 
-I am currently working as a Postdoctotal Research Associate in the [Cosmology group at the University of Geneva](https://cosmology.unige.ch/). I completed my PhD in Cosmology from the [Stephan Hawking Centre for Theoretical Cosmology](https://www.ctc.cam.ac.uk/) at the University of Cambridge in 2020. During my PhD I worked on the large scale structure of the Universe and how we can extract interesting physics from current and upcoming galaxy surveys. I did research on the perturbative effective field theory approaches to matter and galaxy clustering in the universe and validated the methods using with supercomputer simulations of the cosmic density fields. My PhD thesis was on [Higher Order Couplings in the Clustering of Biased Tracers of Large-Scale Structure](https://www.repository.cam.ac.uk/handle/1810/314703?show=full). I did Masters in Applied Mathematics & Theoretical Physics (also known as Part III of the Mathematical Tripos) from the [University of Cambridge](https://www.damtp.cam.ac.uk/) in 2016.
+Having traversed the expansive universe of cosmology, I've now set my sights on the dynamic world of finance. Currently positioned at the crossroads of artificial intelligence, machine learning, and the financial sector in London, I'm harnessing the power of data to navigate the intricate realms of asset management.
 
-Here are some ideas to get you started:
+### 🌌 **From Cosmology to Finance**:
+Transitioning from the mysteries of cosmic density fields at the University of Geneva to the nuanced data-driven decision-making processes in finance, my journey has been nothing short of fascinating. My background, enriched by rigorous academic endeavors at the Stephan Hawking Centre for Theoretical Cosmology at the University of Cambridge, uniquely positions me to bring a fresh perspective to financial data analytics.
 
-- 🔭 I’m currently working on large scale structure cosmology ([github page](https://github.com/muntazirabidi/GIMCO_EG)) and the applications of machine learning in cosmology ([github page](https://github.com/muntazirabidi/cosmoSWAG)). 
-- 🌱 I’m currently learning statistics and machine learning.
-- 👯 I’m looking to collaborate on interesting projects. 
-- 🤔 I’m looking for help with ...
-- 📚 Books I'm reading:
-     -  [Range: Why Generalists Triumph in a Specialized World by David Epstein](https://www.goodreads.com/book/show/41795733-range)
-     -  [The Psychology of Money by Morgan Housel](https://www.goodreads.com/book/show/41881472-the-psychology-of-money)
-     -  Option Volatility and Pricing by Sheldon Natenberg
-- 💬 Ask me about anything!
-- 📫 How to reach me: 
-     - Email: muntazir.abidi@unige.ch
-     - Website: [https://muntazirabidi.com/](https://muntazirabidi.com/)
-     - Instagram: [muntazirabidi](https://www.instagram.com/muntazirabidi/)
-     - Youtube: [Muntazir Abidi](https://www.youtube.com/channel/UCf0hm4WfJ19XdYd8fvcOgQg)
+### 🎓 **Educational Odyssey**:
+- PhD, Cosmology, University of Cambridge, 2020
+- Masters in Applied Mathematics & Theoretical Physics, University of Cambridge, 2016
+
+### 🔍 **Current Interests**:
+- **Financial Machine Learning**: Crafting predictive models tailored for the financial domain.
+- **Generative AI**: Exploring innovative methods to generate financial data and models.
+- **LLMs**: Harnessing the power of Large Language Models in finance.
+- **Data Science**: Translating complex datasets into actionable business strategies.
+
+### 🔗 **Connect & Collaborate**:
+I'm always keen to engage with like-minded professionals and enthusiasts. Whether it's a discussion about the latest in AI, a potential collaboration, or just a casual chat about the vastness of the universe, feel free to reach out.
+
+- 🌐 [Personal Website](https://muntazirabidi.com/)
+- 📸 [Instagram: @muntazirabidi](https://www.instagram.com/muntazirabidi/)
+- 🎥 [Youtube: Muntazir Abidi](https://www.youtube.com/user/MuntazirAbidi)
