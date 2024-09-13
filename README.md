@@ -4,10 +4,8 @@
 
 Having traversed the expansive universe of cosmology, I've now set my sights on the dynamic world of finance. Currently positioned at the crossroads of artificial intelligence, machine learning, and the financial sector in London.
 
-### 🌌 **From Cosmology to Finance**:
-Transitioning from the mysteries of cosmic density fields at the University of Geneva to the nuanced data-driven decision-making processes in finance, my journey has been nothing short of fascinating. My background, enriched by rigorous academic endeavors at the Stephan Hawking Centre for Theoretical Cosmology at the University of Cambridge, uniquely positions me to bring a fresh perspective to financial data analytics.
 
-### 🎓 **Educational Odyssey**:
+### 🎓 **Education:
 - PhD, Cosmology, University of Cambridge, 2020
 - Masters in Applied Mathematics & Theoretical Physics, University of Cambridge, 2016
 
