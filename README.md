@@ -1,1 +1,1 @@
-# Dr. Muntazir Abidi :wave:
+# :wave:
